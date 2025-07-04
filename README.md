@@ -13,7 +13,6 @@ A console-based banking application built using C++ to simulate essential bankin
 * Display all account holders with balances
 * Data stored using binary file handling
 
----
 
 ## Tech Stack
 
@@ -25,7 +24,6 @@ A console-based banking application built using C++ to simulate essential bankin
   * Input Validation
   * Modular Programming
 
----
 
 ## File Structure
 
